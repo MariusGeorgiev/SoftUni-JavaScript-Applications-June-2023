@@ -1,0 +1,22 @@
+1) Register Page functionality 
+- get form's data
+- form validation
+- make a POST request
+- error handling 
+- if request is okay => save user's data in session storage
+- if request is not okay => show error
+
+2) Login Page functionality
+-
+
+3) Logout functionality
+
+4) polish authentication flows
+4.1) show/hide content when user is logged in
+- hide register and login buttons
+- display user's email 
+- show logout btn
+4.2) shiw/hide content when user is not logged in
+- hide logout btn
+- show register and login buttons
+- display "guest instand of user's name 
